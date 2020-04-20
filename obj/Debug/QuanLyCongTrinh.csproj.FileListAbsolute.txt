@@ -1,0 +1,16 @@
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\bin\Debug\QuanLyCongTrinh.exe.config
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\bin\Debug\QuanLyCongTrinh.exe
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\bin\Debug\QuanLyCongTrinh.pdb
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.csprojAssemblyReference.cache
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.Properties.Resources.resources
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.QuanLyChiPhiVatTu.resources
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.csproj.GenerateResource.cache
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.csproj.CoreCompileInputs.cache
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.exe
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.pdb
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.InsertQLCPVT.resources
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.UpdateQLCPVT.resources
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.DeleteQLCPVT.resources
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.SearchQLCPVT.resources
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.QuanLyCongTrinhXayDUng.resources
+C:\Users\COMPUTER\source\repos\QuanLyCongTrinh\QuanLyCongTrinh\obj\Debug\QuanLyCongTrinh.csproj.ResolveComReference.cache
